@@ -1,0 +1,85 @@
+Material_Material,GTIN,PropertyName,PropertyValue,Section
+1011,0123456789012,Type,Additive,Product Category
+1011,0123456789012,Unit of Measure,KG,Product Category
+1011,0123456789012,Batch Number,ADD1011F,Storage Information
+1011,0123456789012,Expiry Date,2027-11-05,Storage Information
+1011,0123456789012,Manufacturer,AdditiveCo Ltd.,Storage Information
+1011,0123456789012,Storage Condition,Store in a dry, cool place away from direct sunlight,Storage Information
+1022,0234567890123,Type,Colorant,Product Category
+1022,0234567890123,Unit of Measure,L,Product Category
+1022,0234567890123,Batch Number,COL1022X,Storage Information
+1022,0234567890123,Expiry Date,2028-01-15,Storage Information
+1022,0234567890123,Manufacturer,ColorantInc,Storage Information
+1022,0234567890123,Storage Condition,Store in a cool place away from moisture,Storage Information
+1033,0345678901234,Type,Flavoring,Product Category
+1033,0345678901234,Unit of Measure,KG,Product Category
+1033,0345678901234,Batch Number,FLV1033Z,Storage Information
+1033,0345678901234,Expiry Date,2029-06-20,Storage Information
+1033,0345678901234,Manufacturer,FlavorCorp,Storage Information
+1033,0345678901234,Storage Condition,Keep in a sealed container,Storage Information
+1044,0456789012345,Type,Preservative,Product Category
+1044,0456789012345,Unit of Measure,L,Product Category
+1044,0456789012345,Batch Number,PRE1044A,Storage Information
+1044,0456789012345,Expiry Date,2030-03-12,Storage Information
+1044,0456789012345,Manufacturer,PreservInc,Storage Information
+1044,0456789012345,Storage Condition,Store in a dry, cool place,Storage Information
+1055,0567890123456,Type,Solvent,Product Category
+1055,0567890123456,Unit of Measure,L,Product Category
+1055,0567890123456,Batch Number,SOL1055B,Storage Information
+1055,0567890123456,Expiry Date,2027-08-20,Storage Information
+1055,0567890123456,Manufacturer,Solvex Ltd.,Storage Information
+1055,0567890123456,Storage Condition,Store in a cool, well-ventilated area,Storage Information
+1066,0678901234567,Type,Emulsifier,Product Category
+1066,0678901234567,Unit of Measure,KG,Product Category
+1066,0678901234567,Batch Number,EMU1066A,Storage Information
+1066,0678901234567,Expiry Date,2029-02-25,Storage Information
+1066,0678901234567,Manufacturer,EmulCo,Storage Information
+1066,0678901234567,Storage Condition,Store in a dry place away from heat,Storage Information
+1077,0789012345678,Type,Stabilizer,Product Category
+1077,0789012345678,Unit of Measure,L,Product Category
+1077,0789012345678,Batch Number,STB1077C,Storage Information
+1077,0789012345678,Expiry Date,2031-05-11,Storage Information
+1077,0789012345678,Manufacturer,Stabilix,Storage Information
+1077,0789012345678,Storage Condition,Keep container tightly closed,Storage Information
+1088,0890123456789,Type,Preservative,Product Category
+1088,0890123456789,Unit of Measure,KG,Product Category
+1088,0890123456789,Batch Number,PRE1088D,Storage Information
+1088,0890123456789,Expiry Date,2032-09-13,Storage Information
+1088,0890123456789,Manufacturer,Presertech,Storage Information
+1088,0890123456789,Storage Condition,Store in a cool, dry place,Storage Information
+1099,0901234567890,Type,Solvent,Product Category
+1099,0901234567890,Unit of Measure,L,Product Category
+1099,0901234567890,Batch Number,SOL1099E,Storage Information
+1099,0901234567890,Expiry Date,2025-07-18,Storage Information
+1099,0901234567890,Manufacturer,SolvexCorp,Storage Information
+1099,0901234567890,Storage Condition,Store away from direct sunlight,Storage Information
+1100,0912345678901,Type,Additive,Product Category
+1100,0912345678901,Unit of Measure,KG,Product Category
+1100,0912345678901,Batch Number,ADD1100A,Storage Information
+1100,0912345678901,Expiry Date,2026-03-30,Storage Information
+1100,0912345678901,Manufacturer,AdditiveTech,Storage Information
+1100,0912345678901,Storage Condition,Keep in a cool, dry place,Storage Information
+1111,1023456789012,Type,Colorant,Product Category
+1111,1023456789012,Unit of Measure,L,Product Category
+1111,1023456789012,Batch Number,COL1111Y,Storage Information
+1111,1023456789012,Expiry Date,2027-11-01,Storage Information
+1111,1023456789012,Manufacturer,ColorantPro,Storage Information
+1111,1023456789012,Storage Condition,Store in a cool and dry place,Storage Information
+1122,1134567890123,Type,Flavoring,Product Category
+1122,1134567890123,Unit of Measure,KG,Product Category
+1122,1134567890123,Batch Number,FLV1122M,Storage Information
+1122,1134567890123,Expiry Date,2030-02-12,Storage Information
+1122,1134567890123,Manufacturer,FlavorWorld,Storage Information
+1122,1134567890123,Storage Condition,Keep in an airtight container,Storage Information
+1133,1245678901234,Type,Preservative,Product Category
+1133,1245678901234,Unit of Measure,L,Product Category
+1133,1245678901234,Batch Number,PRE1133F,Storage Information
+1133,1245678901234,Expiry Date,2028-05-16,Storage Information
+1133,1245678901234,Manufacturer,Preservol,Storage Information
+1133,1245678901234,Storage Condition,Store away from moisture,Storage Information
+1144,1356789012345,Type,Solvent,Product Category
+1144,1356789012345,Unit of Measure,L,Product Category
+1144,1356789012345,Batch Number,SOL1144H,Storage Information
+1144,1356789012345,Expiry Date,2024-09-28,Storage Information
+1144,1356789012345,Manufacturer,Solvex Solutions,Storage Information
+1144,1356789012345,Storage Condition,Store in a cool, dry area,Storage Information
