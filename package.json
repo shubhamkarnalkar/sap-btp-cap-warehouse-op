@@ -2,7 +2,7 @@
   "name": "btp-cap-warehouse-op-erp-services",
   "version": "1.0.0",
   "description": "A simple CAP project.",
-  "repository": "<Add your repository here>",
+  "repository": "https://github.com/shubhamkarnalkar/sap-btp-cap-warehouse-op.git",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {

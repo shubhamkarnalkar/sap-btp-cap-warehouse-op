@@ -30,9 +30,9 @@ entity ArrivalSrv : managed {
 
 entity Plant : managed {
     key name             : String;
-    key GLN              : GLN;
+        GLN              : GLN;
         StorageLocations : Composition of many {
                                key name : String;
-                               key SGLN : SGLN;
+                                   SGLN : SGLN;
                            }
 }
