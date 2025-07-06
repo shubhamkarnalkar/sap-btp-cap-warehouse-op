@@ -19,7 +19,6 @@ File or Folder | Purpose
 - (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
 - Start adding content, for example, a [db/schema.cds](db/schema.cds).
 
+## Naming convention
+Every service should be denoted with snake case only, since the url will be formed using service name.
 
-## Learn More
-
-Learn more at https://cap.cloud.sap/docs/get-started/.

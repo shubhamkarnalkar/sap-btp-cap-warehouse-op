@@ -24,6 +24,27 @@
         "--in-memory?"
       ],
       "problemMatcher": []
+    },
+    {
+      "type": "build.mta",
+      "label": "Build ",
+      "taskType": "Build",
+      "projectPath": "/home/user/projects/sap-btp-cap-warehouse-op",
+      "extensions": []
+    },
+    {
+      "type": "deploy.mta.cf",
+      "label": "Deploy to Cloud Foundry ",
+      "taskType": "Deploy",
+      "mtarPath": "/home/user/projects/sap-btp-cap-warehouse-op/mta_archives/sap-btp-cap-warehouse-op_0.0.1.mtar",
+      "extensions": [],
+      "dependsOn": [
+        "Build "
+      ],
+      "cfTarget": "dev-build",
+      "cfEndpoint": "https://api.cf.us10-001.hana.ondemand.com",
+      "cfOrg": "89cc7460trial_trail-build-code-ydchmpmr",
+      "cfSpace": "dev-build"
     }
   ]
 }

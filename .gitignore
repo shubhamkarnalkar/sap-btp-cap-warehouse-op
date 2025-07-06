@@ -1,4 +1,4 @@
-# CAP btp-cap-warehouse-op-erp-services
+# CAP cap-warehouse-op
 _out
 *.db
 *.sqlite

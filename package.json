@@ -1,19 +1,20 @@
 {
-  "name": "btp-cap-warehouse-op-erp-services",
+  "name": "cap-warehouse-op",
   "version": "1.0.0",
   "description": "A simple CAP project.",
   "repository": "https://github.com/shubhamkarnalkar/sap-btp-cap-warehouse-op.git",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "@sap/cds": "^8.9.2",
-    "express": "^4",
+    "@cap-js/hana": "^2",
+    "@sap/cds": "^9.0.4",
     "@sap/xssec": "^4",
-    "@cap-js/hana": "^2"
+    "express": "^4"
   },
   "devDependencies": {
-    "@cap-js/cds-types": "^0.9.0",
-    "@cap-js/sqlite": "^1",
+    "@cap-js/cds-types": "^0.12.0",
+    "@cap-js/sqlite": "^2.0.1",
+    "@sap/cds-dk": "^9.0.4",
     "@types/node": "^22.14.1",
     "ts-node": "^10.9.2",
     "tsx": "^4.19.4",
@@ -28,6 +29,9 @@
   "cds": {
     "requires": {
       "[production]": {
+        "auth": "xsuaa"
+      },
+      "[hybrid]": {
         "auth": "xsuaa"
       }
     }
