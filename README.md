@@ -22,3 +22,13 @@ File or Folder | Purpose
 ## Naming convention
 Every service should be denoted with snake case only, since the url will be formed using service name.
 
+## Prerequisite for the build
+Make sure the HANA instance is running when you deploy your app
+before executing the following commands: 
+```cmd
+cds build --production
+mbt build
+```
+After completing the build, you can deploy the app using the .mtar file in the current workspace's folder mta_archives.
+
+
