@@ -1,0 +1,5 @@
+@endpoint = /odata/v4/master-data/materials
+
+####
+# GET {{auth_url}}/{{endpoint}}
+

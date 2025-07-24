@@ -7,11 +7,11 @@
   },
   "scopes": [
     {
-      "name": "WO.Admin",
+      "name": "$XSAPPNAME.Admin",
       "description": "Admin"
     },
     {
-      "name": "WO.User",
+      "name": "$XSAPPNAME.User",
       "description": "User"
     }
   ],
